@@ -3,3 +3,6 @@
 /test/
 /doc/
 Cargo.lock
+.idea
+*.iml
+*.bk
